@@ -1,0 +1,16 @@
+PODS:
+  - Appirater (2.0.5)
+  - iVersion (1.11.4)
+  - UMengAnalytics-NO-IDFA (3.6.7)
+
+DEPENDENCIES:
+  - Appirater
+  - iVersion
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  Appirater: e7c0a47fb67ee5041ce8479e6ba960927fb40264
+  iVersion: 2b6ffe708672cb494ba3cab150a94800c2892e81
+  UMengAnalytics-NO-IDFA: 6d02561a00579b2e37718f204eb81347df5d7b8b
+
+COCOAPODS: 0.39.0
