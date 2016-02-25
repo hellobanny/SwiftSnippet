@@ -14,12 +14,12 @@
 		51B319E21C7DB97F001CB0EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B319E01C7DB97F001CB0EA /* Main.storyboard */; };
 		51B319E41C7DB97F001CB0EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51B319E31C7DB97F001CB0EA /* Assets.xcassets */; };
 		51B319E71C7DB97F001CB0EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51B319E51C7DB97F001CB0EA /* LaunchScreen.storyboard */; };
-		51B319FA1C7EA2C1001CB0EA /* ZZCommonLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 51B319EF1C7EA2C1001CB0EA /* ZZCommonLocalizable.strings */; };
-		51B319FB1C7EA2C1001CB0EA /* SweetAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B319F31C7EA2C1001CB0EA /* SweetAlert.swift */; };
-		51B319FC1C7EA2C1001CB0EA /* ZZSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B319F61C7EA2C1001CB0EA /* ZZSetting.swift */; };
-		51B319FD1C7EA2C1001CB0EA /* ZZStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B319F71C7EA2C1001CB0EA /* ZZStart.swift */; };
-		51B319FE1C7EA2C1001CB0EA /* ZZUserGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B319F81C7EA2C1001CB0EA /* ZZUserGuide.swift */; };
-		51B319FF1C7EA2C1001CB0EA /* ZZUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B319F91C7EA2C1001CB0EA /* ZZUtil.swift */; };
+		51B31A851C7EAB51001CB0EA /* ZZCommonLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 51B31A7A1C7EAB51001CB0EA /* ZZCommonLocalizable.strings */; };
+		51B31A861C7EAB51001CB0EA /* SweetAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B31A7E1C7EAB51001CB0EA /* SweetAlert.swift */; };
+		51B31A871C7EAB51001CB0EA /* ZZSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B31A811C7EAB51001CB0EA /* ZZSetting.swift */; };
+		51B31A881C7EAB51001CB0EA /* ZZStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B31A821C7EAB51001CB0EA /* ZZStart.swift */; };
+		51B31A891C7EAB51001CB0EA /* ZZUserGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B31A831C7EAB51001CB0EA /* ZZUserGuide.swift */; };
+		51B31A8A1C7EAB51001CB0EA /* ZZUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B31A841C7EAB51001CB0EA /* ZZUtil.swift */; };
 		BB03781CC357684358804373 /* libPods-Example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 88669CDA7BD75FDD2D99CD30 /* libPods-Example.a */; };
 /* End PBXBuildFile section */
 
@@ -35,15 +35,15 @@
 		51B319E31C7DB97F001CB0EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51B319E61C7DB97F001CB0EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		51B319E81C7DB97F001CB0EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		51B319F01C7EA2C1001CB0EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/ZZCommonLocalizable.strings; sourceTree = "<group>"; };
-		51B319F11C7EA2C1001CB0EA /* Common-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Common-Bridging-Header.h"; sourceTree = "<group>"; };
-		51B319F31C7EA2C1001CB0EA /* SweetAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SweetAlert.swift; sourceTree = "<group>"; };
-		51B319F41C7EA2C1001CB0EA /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/ZZCommonLocalizable.strings"; sourceTree = "<group>"; };
-		51B319F51C7EA2C1001CB0EA /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/ZZCommonLocalizable.strings"; sourceTree = "<group>"; };
-		51B319F61C7EA2C1001CB0EA /* ZZSetting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZSetting.swift; sourceTree = "<group>"; };
-		51B319F71C7EA2C1001CB0EA /* ZZStart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZStart.swift; sourceTree = "<group>"; };
-		51B319F81C7EA2C1001CB0EA /* ZZUserGuide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZUserGuide.swift; sourceTree = "<group>"; };
-		51B319F91C7EA2C1001CB0EA /* ZZUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZUtil.swift; sourceTree = "<group>"; };
+		51B31A7B1C7EAB51001CB0EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/ZZCommonLocalizable.strings; sourceTree = "<group>"; };
+		51B31A7C1C7EAB51001CB0EA /* Common-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Common-Bridging-Header.h"; sourceTree = "<group>"; };
+		51B31A7E1C7EAB51001CB0EA /* SweetAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SweetAlert.swift; sourceTree = "<group>"; };
+		51B31A7F1C7EAB51001CB0EA /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/ZZCommonLocalizable.strings"; sourceTree = "<group>"; };
+		51B31A801C7EAB51001CB0EA /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/ZZCommonLocalizable.strings"; sourceTree = "<group>"; };
+		51B31A811C7EAB51001CB0EA /* ZZSetting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZSetting.swift; sourceTree = "<group>"; };
+		51B31A821C7EAB51001CB0EA /* ZZStart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZStart.swift; sourceTree = "<group>"; };
+		51B31A831C7EAB51001CB0EA /* ZZUserGuide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZUserGuide.swift; sourceTree = "<group>"; };
+		51B31A841C7EAB51001CB0EA /* ZZUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZUtil.swift; sourceTree = "<group>"; };
 		88669CDA7BD75FDD2D99CD30 /* libPods-Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -79,7 +79,7 @@
 		51B319CB1C7DB97F001CB0EA = {
 			isa = PBXGroup;
 			children = (
-				51B319EE1C7EA2C1001CB0EA /* Snippet */,
+				51B31A791C7EAB51001CB0EA /* Snippet */,
 				51B319D61C7DB97F001CB0EA /* Example */,
 				51B319D51C7DB97F001CB0EA /* Products */,
 				3E12B5B7C29171663EAF95A6 /* Pods */,
@@ -110,24 +110,25 @@
 			path = Example;
 			sourceTree = "<group>";
 		};
-		51B319EE1C7EA2C1001CB0EA /* Snippet */ = {
+		51B31A791C7EAB51001CB0EA /* Snippet */ = {
 			isa = PBXGroup;
 			children = (
-				51B319EF1C7EA2C1001CB0EA /* ZZCommonLocalizable.strings */,
-				51B319F11C7EA2C1001CB0EA /* Common-Bridging-Header.h */,
-				51B319F21C7EA2C1001CB0EA /* SDK */,
-				51B319F61C7EA2C1001CB0EA /* ZZSetting.swift */,
-				51B319F71C7EA2C1001CB0EA /* ZZStart.swift */,
-				51B319F81C7EA2C1001CB0EA /* ZZUserGuide.swift */,
-				51B319F91C7EA2C1001CB0EA /* ZZUtil.swift */,
+				51B31A7A1C7EAB51001CB0EA /* ZZCommonLocalizable.strings */,
+				51B31A7C1C7EAB51001CB0EA /* Common-Bridging-Header.h */,
+				51B31A7D1C7EAB51001CB0EA /* SDK */,
+				51B31A811C7EAB51001CB0EA /* ZZSetting.swift */,
+				51B31A821C7EAB51001CB0EA /* ZZStart.swift */,
+				51B31A831C7EAB51001CB0EA /* ZZUserGuide.swift */,
+				51B31A841C7EAB51001CB0EA /* ZZUtil.swift */,
 			);
-			path = Snippet;
+			name = Snippet;
+			path = ../Snippet;
 			sourceTree = "<group>";
 		};
-		51B319F21C7EA2C1001CB0EA /* SDK */ = {
+		51B31A7D1C7EAB51001CB0EA /* SDK */ = {
 			isa = PBXGroup;
 			children = (
-				51B319F31C7EA2C1001CB0EA /* SweetAlert.swift */,
+				51B31A7E1C7EAB51001CB0EA /* SweetAlert.swift */,
 			);
 			path = SDK;
 			sourceTree = "<group>";
@@ -179,6 +180,35 @@
 				Base,
 				"zh-Hans",
 				"zh-Hant",
+				ar,
+				ca,
+				cs,
+				da,
+				de,
+				el,
+				es,
+				fi,
+				fr,
+				he,
+				hu,
+				id,
+				it,
+				ja,
+				ko,
+				ms,
+				nb,
+				nl,
+				pl,
+				"pt-BR",
+				pt,
+				ro,
+				ru,
+				sk,
+				sv,
+				th,
+				tr,
+				uk,
+				vi,
 			);
 			mainGroup = 51B319CB1C7DB97F001CB0EA;
 			productRefGroup = 51B319D51C7DB97F001CB0EA /* Products */;
@@ -197,7 +227,7 @@
 			files = (
 				51B319E71C7DB97F001CB0EA /* LaunchScreen.storyboard in Resources */,
 				51B319E41C7DB97F001CB0EA /* Assets.xcassets in Resources */,
-				51B319FA1C7EA2C1001CB0EA /* ZZCommonLocalizable.strings in Resources */,
+				51B31A851C7EAB51001CB0EA /* ZZCommonLocalizable.strings in Resources */,
 				51B319E21C7DB97F001CB0EA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,14 +288,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				51B319DB1C7DB97F001CB0EA /* Example.xcdatamodeld in Sources */,
-				51B319FB1C7EA2C1001CB0EA /* SweetAlert.swift in Sources */,
-				51B319FC1C7EA2C1001CB0EA /* ZZSetting.swift in Sources */,
-				51B319FF1C7EA2C1001CB0EA /* ZZUtil.swift in Sources */,
+				51B31A861C7EAB51001CB0EA /* SweetAlert.swift in Sources */,
+				51B31A871C7EAB51001CB0EA /* ZZSetting.swift in Sources */,
+				51B31A8A1C7EAB51001CB0EA /* ZZUtil.swift in Sources */,
 				51B319D81C7DB97F001CB0EA /* AppDelegate.swift in Sources */,
 				51B319DD1C7DB97F001CB0EA /* MasterViewController.swift in Sources */,
-				51B319FE1C7EA2C1001CB0EA /* ZZUserGuide.swift in Sources */,
+				51B31A891C7EAB51001CB0EA /* ZZUserGuide.swift in Sources */,
 				51B319DF1C7DB97F001CB0EA /* DetailViewController.swift in Sources */,
-				51B319FD1C7EA2C1001CB0EA /* ZZStart.swift in Sources */,
+				51B31A881C7EAB51001CB0EA /* ZZStart.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,12 +318,12 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		51B319EF1C7EA2C1001CB0EA /* ZZCommonLocalizable.strings */ = {
+		51B31A7A1C7EAB51001CB0EA /* ZZCommonLocalizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				51B319F01C7EA2C1001CB0EA /* Base */,
-				51B319F41C7EA2C1001CB0EA /* zh-Hans */,
-				51B319F51C7EA2C1001CB0EA /* zh-Hant */,
+				51B31A7B1C7EAB51001CB0EA /* Base */,
+				51B31A7F1C7EAB51001CB0EA /* zh-Hans */,
+				51B31A801C7EAB51001CB0EA /* zh-Hant */,
 			);
 			name = ZZCommonLocalizable.strings;
 			sourceTree = "<group>";
@@ -341,7 +371,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
-				SWIFT_OBJC_BRIDGING_HEADER = "./Snippet/Common-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "../Snippet/Common-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -380,7 +410,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				SWIFT_OBJC_BRIDGING_HEADER = "./Snippet/Common-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "../Snippet/Common-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -393,6 +423,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pods/UMengAnalytics-NO-IDFA/umsdk_IOS_analytics_no-idfa_v3.6.7/UMAnalytics_Sdk_3.6.7",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = us.appby.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -405,6 +439,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pods/UMengAnalytics-NO-IDFA/umsdk_IOS_analytics_no-idfa_v3.6.7/UMAnalytics_Sdk_3.6.7",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = us.appby.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
